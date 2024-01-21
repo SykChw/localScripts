@@ -1,2 +1,2 @@
 # localScripts
-Collection of scripts that I usually run on my local machine.
+Miscellaneous collection of scripts that I sometimes run locally.
